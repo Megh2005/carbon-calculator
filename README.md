@@ -1,6 +1,6 @@
 # Carbon Calculator :factory:
 
-## Overview :book:
+## Overview :octocat:
 The Carbon Calculator is a tool designed to help individuals and organizations estimate their carbon footprint. By inputting various data points, users can receive an estimate of their carbon emissions and get recommendations on how to reduce their impact on the environment.
 
 ## Features :sparkles:
